@@ -1,1 +1,1 @@
-# Fresh python project
+# This project's purpose is to explore basic cvxpy functions to begin building the framework for more advanced convex optimizations.

@@ -1,2 +1,6 @@
-pandas
-pytest 
+# CVXPY for convex optimization!
+cvxpy
+
+# Pytest and structlog for best coding practices
+pytest
+structlog
