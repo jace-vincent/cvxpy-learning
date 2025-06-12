@@ -1,0 +1,16 @@
+*.egg-info/
+.env
+.credentials
+__pycache__/
+.pytest_cache/
+*./temp
+venv/
+
+# Logs
+*.log
+*.log.*
+logs/
+log/
+transaction_processing.log
+**/logs/
+**/log/
